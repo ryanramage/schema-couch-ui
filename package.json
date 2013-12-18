@@ -1,0 +1,30 @@
+{
+  "name": "schema-couch-ui",
+  "description": "Build an extensible ui on a schema-couch with very few lines of code.",
+  "author": "Ryan Ramage",
+  "version": "0.0.1",
+  "main": "index.js",
+  "jam": {
+    "dependencies": {
+      "URIjs": null,
+      "async" : null,
+      "couchr": null,
+      "director": null,
+      "events": null,
+      "json.edit": null,
+      "ractive": null,
+      "text": null,
+      "url": null
+    }
+  },
+  "repository": "git://github.com/ryanramage/schema-couch-ui.git",
+  "homepage": "https://github.com/ryanramage/schema-couch-ui",
+  "maintainers":[{
+    "name":"Ryan Ramage",
+    "web":"https://github.com/ryanramage"
+  }],
+  "repositories":[{
+    "type":"git",
+    "url":"https://github.com/ryanramage/schema-couch-ui"
+  }]
+}
