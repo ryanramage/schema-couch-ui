@@ -2,7 +2,7 @@
   "name": "schema-couch-ui",
   "description": "Build an extensible ui on a schema-couch with very few lines of code.",
   "author": "Ryan Ramage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "jam": {
     "dependencies": {
